@@ -39,14 +39,9 @@ footer_content: 'Tae-Hyuk (Ted) Ahn &copy; 2021, Credit to <a href="https://kevi
 
 # Collections for website data
 collections:
+  accouncements:
   staffers:
   modules:
-  slides:
-    permalink: '/:path/'
-    output: true
-  lessons:
-    permalink: '/:path/'
-    output: true
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -62,21 +57,11 @@ defaults:
       layout: module
   - scope:
       path: ''
-      type: slides
+      type: announcements
     values:
-      layout: minimal
+      layout: announcements
       search_exclude: true
       sitemap: false
-  - scope:
-      path: ''
-      type: lessons
-    values:
-      layout: page
-# Configure collections for Just the Docs
-just_the_docs:
-  collections:
-    lessons:
-      name: Lessons
 
 compress_html:
   clippings: all
