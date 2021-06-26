@@ -39,11 +39,16 @@ footer_content: 'Tae-Hyuk (Ted) Ahn &copy; 2021, Credit to <a href="https://kevi
 
 # Collections for website data
 collections:
-  accouncements:
+  announcements:
   staffers:
   modules:
 # Default layouts for each collection type
 defaults:
+  - scope:
+      path: ''
+      type: announcements
+    values:
+      layout: announcement
   - scope:
       path: ''
       type: staffers
@@ -55,13 +60,6 @@ defaults:
       type: modules
     values:
       layout: module
-  - scope:
-      path: ''
-      type: announcements
-    values:
-      layout: announcements
-      search_exclude: true
-      sitemap: false
 
 compress_html:
   clippings: all
