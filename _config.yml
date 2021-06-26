@@ -35,7 +35,7 @@ aux_links:
   BioHPC Lab:
     - 'https://cs.slu.edu/~ahn'
 aux_links_new_tab: true
-footer_content: 'Tae-Hyuk (Ted) Ahn &copy; 2021 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
+footer_content: 'Tae-Hyuk (Ted) Ahn &copy; 2021, Credit to <a href="https://kevinl.info/just-the-class/">Just the Class</a>'
 
 # Collections for website data
 collections:
