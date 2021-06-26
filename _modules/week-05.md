@@ -3,13 +3,13 @@ title: Cloud and Apache-Spark
 ---
 
 Jul 26
-: Spark 1
+: Intro to Cloud and Apache Spark
 
 Jul 27
-: Spark 2
+: Spark 1
 
 Jul 28
-: Spark 3
+: Spark 2
 
 Jul 29
-: Spark 4
+: Spark 3

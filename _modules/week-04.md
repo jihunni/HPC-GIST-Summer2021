@@ -3,13 +3,13 @@ title: CUDA
 ---
 
 Jul 19
-: CUDA 1
+: Intro to GPGPU/CUDA
 
 Jul 20
-: CUDA 2
+: CUDA thread and execution model
 
 Jul 21
-: CUDA 3
+: Memory hierachy and model
 
 Jul 22
-: CUDA 4
+: Synchronization, stream, and more
