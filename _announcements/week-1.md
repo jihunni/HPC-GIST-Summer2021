@@ -4,5 +4,5 @@ week: 1
 date: 2021-06-28
 ---
 
-Hello!!
-
+* Welcome to HPC class at GIST! 
+* Please join synchronous lecture at 9:30 AM via Zoom
