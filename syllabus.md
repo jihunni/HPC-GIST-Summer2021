@@ -24,26 +24,25 @@ High-performance computing (HPC) refers to a specialized use of processor featur
 
 ### Class Meeting Time/Location
 
-**Time**: Mon-Thu, 9:30 am - 12:00 pm (KST)
-
+**Time**: Mon-Thu, 9:30 am - 12:00 pm (KST)  
 **Where**: Online lectures via Zoom at [https://slu.zoom.us/j/95870673825](https://slu.zoom.us/j/95870673825)
 
 ### Instructor
-Tae-Hyuk (Ted) Ahn, Ph.D.
-Associate Professor
-Department of Computer Science
-Program of Bioinformatics and Computational Biology
-*Email*: <taehyuk.ahn@slu.edu>
-*Office*: TBD
-*Phone*: TBD
-*Office Hour*: Appointment by email
-*Discussion*: <https://github.com/BioHPC/HPC-GIST-Summer2021/discussions>
+Tae-Hyuk (Ted) Ahn, Ph.D.  
+Associate Professor  
+Department of Computer Science  
+Program of Bioinformatics and Computational Biology  
+*Email*: <taehyuk.ahn@slu.edu>  
+*Office*: TBD  
+*Phone*: TBD  
+*Office Hour*: Appointment by email  
+*Discussion*: <https://github.com/BioHPC/HPC-GIST-Summer2021/discussions>  
 
 ### Credits/Pre-requisites
-**Credits**: 3 Credits
-**Pre-requisites**: Data Structures using C++ (required); Algorithms (recommended)
-(Exceptions if non-cs major students have strong programming skills and computer/numerical concepts with enthusiasm for learning HPC)
-**Overall requirements: Students will be expected to have knowledge of algorithms and data structures, and linear algebra at an undergraduate level. Students are expected to be proficient in either Python, C, C++, or FORTRAN. Students should also be familiar with the Unix/Linux environment.
+**Credits**: 3 Credits  
+**Pre-requisites**: Data Structures using C++ (required); Algorithms (recommended)  
+(Exceptions if non-cs major students have strong programming skills and computer/numerical concepts with enthusiasm for learning HPC)  
+**Overall requirements: Students will be expected to have knowledge of algorithms and data structures, and linear algebra at an undergraduate level. Students are expected to be proficient in either Python, C, C++, or FORTRAN. Students should also be familiar with the Unix/Linux environment.  
 
 ### Topical Outline
 Main topics include basic HPC hardware architectures, parallel programming languages, new trends of HPC, and more. The contents of the course provide a balance of theoretical and practical aspects in parallel computing. A student of this course is expected to develop the right skills to design parallel applications and to effectively use modern HPC platforms.
