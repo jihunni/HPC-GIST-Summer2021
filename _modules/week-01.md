@@ -1,12 +1,15 @@
 ---
-title: HPC-GIST-2021Summer
+title: HPC-GIST-Summer2021
 ---
 
-Jun 28, 2021
+Jun 28
+: Welcome session!
+
+Jun 29
 : Introduction to HPC
 
-Jun 29, 2021
+Jun 30
+: Code optimization
 
-Jun 30, 2021
-
-Jul 1, 2021
+Jul 1
+: Introduction to parallel progrmmaing and performance analysis
