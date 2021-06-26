@@ -1,5 +1,5 @@
 ---
-title: HPC-GIST-Summer2021
+title: Intro to HPC and Parallel Programming
 ---
 
 Jun 28

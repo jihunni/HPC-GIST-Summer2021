@@ -1,5 +1,5 @@
 ---
-title: HPC-GIST-Summer2021
+title: OpenMP
 ---
 
 Jul 5
