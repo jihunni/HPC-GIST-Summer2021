@@ -20,7 +20,7 @@ seo:
 {% assign overview = site.slides | where: "title", "Overview" | first %}
 {{ overview.content }}
 
-<small>[Read more...]({{ site.baseurl }}{% link about.md %})</small>
+<small>[Read more...]({{ site.baseurl }}{% link syllabus.md %})</small>
 
 [Join Lecture via Zoom](https://slu.zoom.us/j/95870673825)
 
