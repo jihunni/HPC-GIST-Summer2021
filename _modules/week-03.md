@@ -3,13 +3,13 @@ title: MPI
 ---
 
 Jul 12
-: MPI 1
+: Intro to MPI
 
 Jul 13
-: MPI 2
+: Point-to-point communication
 
 Jul 14
-: MPI 3
+: Collective communication
 
 Jul 15
-: MPI 4
+: Derived datatype, group communicator, and virtual topology

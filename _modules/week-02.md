@@ -1,15 +1,15 @@
 ---
-title: OpenMP
+title: Week-2: OpenMP
 ---
 
 Jul 5
-: OpenMP 1
+: Intro to OpenMP
 
 Jul 6
-: OpenMP 2
+: Directives and Work-Sharing
 
 Jul 7
-: OpenMP 3
+: Data Scope Attributes
 
 Jul 8
-: OpenMP 4
+: Synchronization Constructs
