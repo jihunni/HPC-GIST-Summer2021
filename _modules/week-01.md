@@ -3,7 +3,7 @@ title: Intro to HPC and Parallel Programming
 ---
 
 Jun 28
-: **Lecture**{: .label .label-purple }[Welcome session]({{ site.baseurl }}{% link _modules/week01/HPC_Lec01_Welcome.pdf)
+: **Lecture**{: .label .label-purple }[Welcome session]({{ site.baseurl }}{% link _modules/week01/HPC_Lec01_Welcome.pdf %})
 : **Assignment-01 (10pt)**{: .label .label-green }[Survey](#)
 
 Jun 29
