@@ -6,6 +6,6 @@ description: Listing of course schedules and topics.
 
 # Course Schedule
 
-{% for module in site.modules %}
-{{ module }}
+{% for schedule in site.schedules %}
+{{ schedule }}
 {% endfor %}
