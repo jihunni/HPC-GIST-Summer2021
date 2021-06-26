@@ -3,7 +3,8 @@ title: Intro to HPC and Parallel Programming
 ---
 
 Jun 28
-: Welcome session!
+: **Lecture**{: .label .label-purple }[Welcome session](#)
+: [Survey](#)
 
 Jun 29
 : Introduction to HPC
