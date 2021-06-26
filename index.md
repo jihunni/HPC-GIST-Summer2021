@@ -22,7 +22,15 @@ seo:
 
 [Join Lecture via Zoom](https://slu.zoom.us/j/95870673825)
 
+### Announcements
+{% assign announcements = site.announcements | reverse %}
+{% for announcement in announcements %}
+{{ announcement }}
+{% endfor %}
+
+### Schedules
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
+
 
