@@ -1,5 +1,5 @@
 ---
-title: Week-2: OpenMP
+title: Week 2 - OpenMP
 ---
 
 Jul 5

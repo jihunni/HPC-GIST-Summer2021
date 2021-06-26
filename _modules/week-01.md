@@ -1,5 +1,5 @@
 ---
-title: Week-1: Intro to HPC and Parallel Programming
+title: Week 1 - Intro to HPC and Parallel Programming
 ---
 
 Jun 28

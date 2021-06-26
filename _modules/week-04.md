@@ -1,5 +1,5 @@
 ---
-title: CUDA
+title: Week 4 - CUDA
 ---
 
 Jul 19

@@ -1,5 +1,5 @@
 ---
-title: MPI
+title: Week 3 - MPI
 ---
 
 Jul 12
