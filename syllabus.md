@@ -25,6 +25,7 @@ High-performance computing (HPC) refers to a specialized use of processor featur
 ### Class Meeting Time/Location
 
 **Time**: Mon-Thu, 9:30 am - 12:00 pm (KST)
+
 **Where**: Online lectures via Zoom at [https://slu.zoom.us/j/95870673825](https://slu.zoom.us/j/95870673825)
 
 ### Instructor
