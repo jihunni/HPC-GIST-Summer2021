@@ -8,8 +8,8 @@ Jun 28
 
 Jun 29
 : **Lecture**{: .label .label-purple }[HPC Hardware, Intro to parallel progrmmaing, and performance analysis](../slides/HPC_Lec02_IntroHPCandPP.pdf)
-: **Assignment**{: .label .label-green }[week1-hw2 (30pt)](../assignments/week1_hw2.md)
-: **Assignment**{: .label .label-green }[week1-hw3 (30pt)](../assignments/week1_hw3.md)
+: **Assignment**{: .label .label-green }[week1-hw2 (30pt)](../assignments/week1_hw2)
+: **Assignment**{: .label .label-green }[week1-hw3 (30pt)](../assignments/week1_hw3)
 
 Jun 30
 : <span style="color:Red">No Class!</span>.
