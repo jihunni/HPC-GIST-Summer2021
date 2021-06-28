@@ -1,8 +1,9 @@
 ---
 layout: page
-title: week1-hw3
-subtitle: week1-hw3
 ---
+## Assignment
+week1 hw3
+
 ## Score
 30
 
