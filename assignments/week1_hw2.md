@@ -3,6 +3,8 @@ layout: page
 title: week1-hw2
 subtitle: week1-hw2
 ---
+## Score
+30
 
 ## Due
 Sun, Jul-4-2021, 11:59 PM
