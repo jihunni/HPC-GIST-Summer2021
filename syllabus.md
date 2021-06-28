@@ -110,10 +110,13 @@ TBD
 ### Percentages
 Letter grades will be based on each students overall percentage of awarded points according to the following formula.
 
-- Overall points >= 85 %: A
-- 70 % <= Overall points < 85 %: B
-- 50 % <= Overall points < 70 %: C
-- Overall points < 50 %: F
+- Overall points >= 90 %: A+
+- 80 % <= Overall points < 90 %: A
+- 70 % <= Overall points < 80 %: B+
+- 60 % <= Overall points < 70 %: B
+- 50 % <= Overall points < 60 %: C
+- 40 % <= Overall points < 50 %: D
+- Overall points < 40 %: F
 
 ### Extra Credit
 In general, extra credit will not be assigned in this class.
