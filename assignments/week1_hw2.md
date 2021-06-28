@@ -15,6 +15,6 @@ Sun, Jul-4-2021, 11:59 PM
 5. What factor is used to decide the rank of TOP500? What factor is used to decide the rank of Green500? Report them shortly.
 
 ### Submit
-Submit a doc (only pdf or txt format) by email 
+Submit a doc (only pdf) by email 
 - Filename should be "HPC_week1_hw2_YourLastname_YourFirstName.pdf"
-- Email title should be "HPC week1 hw2"
+- Email title should be "HPC week1 hw2 submission"
