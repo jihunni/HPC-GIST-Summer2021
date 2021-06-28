@@ -15,5 +15,4 @@ Jun 30
 : <span style="color:Red">No Class!</span>.
 
 Jul 1
-: No class
 : <span style="color:Red">No Class!</span>.
