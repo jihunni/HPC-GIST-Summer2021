@@ -1,6 +1,3 @@
----
-nav_excldue: true
----
 ## Assignment
 week1 hw3
 
