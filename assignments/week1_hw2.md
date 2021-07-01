@@ -1,3 +1,7 @@
+---
+layout: default
+title: week1 hw2
+---
 ## Assignment
 week1 hw2
 
