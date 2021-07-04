@@ -3,6 +3,7 @@ title: Week 2 - OpenMP
 ---
 
 Jul 5
+: **Resource**{: .label .label-blue }[IntroToLinux.pdf](../resources/IntroToLinux.pdf), [LinuxCommandCheatSheet.pdf](../resources/LinuxCommandCheatSheet.pdf), [VIEditorCheatSheet.pdf](../resources/VIEditorCheatSheet.pdf)
 : Intro to OpenMP
 
 Jul 6
