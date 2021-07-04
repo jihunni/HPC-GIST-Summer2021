@@ -7,7 +7,7 @@ Jun 28
 : **Assignment**{: .label .label-green }[week1-hw1 (10pt): Survey](https://docs.google.com/forms/d/e/1FAIpQLSek4QYwQPXVYPX3OUyjgGzY0v3twR6YWg6Xm6wmTNj9rsIPDQ/viewform?usp=sf_link)
 
 Jun 29
-: **Resource**{: .label .label-blue }[Computer Hardware](https://www.tutorialspoint.com/computer_fundamentals/computer_hardware.htm), [ORNL Summit System User Guide](https://docs.olcf.ornl.gov/)
+: **Resource**{: .label .label-blue }[Computer Hardware](https://www.tutorialspoint.com/computer_fundamentals/computer_hardware.htm), [ORNL Summit System User Guide](https://docs.olcf.ornl.gov/), [CPU clock speed](https://www.intel.com/content/www/us/en/gaming/resources/cpu-clock-speed.html)
 : **Lecture**{: .label .label-purple }[HPC Hardware, Intro to parallel progrmmaing, and performance analysis](../slides/HPC_Lec02_IntroHPCandPP.pdf)
 : **Assignment**{: .label .label-green }[week1-hw2 (30pt)](../assignments/week1_hw2)
 : **Assignment**{: .label .label-green }[week1-hw3 (30pt)](../assignments/week1_hw3)
