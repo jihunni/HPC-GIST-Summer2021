@@ -1,6 +1,7 @@
 ---
 layout: default
 title: week1 hw2
+nav_exclude: true
 ---
 ## Assignment
 week1 hw2
