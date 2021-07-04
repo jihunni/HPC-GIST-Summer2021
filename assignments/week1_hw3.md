@@ -1,3 +1,8 @@
+---
+layout: default
+title: week1 hw3
+nav_exclude: true
+---
 ## Assignment
 week1 hw3
 
