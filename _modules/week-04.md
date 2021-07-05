@@ -13,3 +13,6 @@ Jul 21
 
 Jul 22
 : Synchronization, stream, and more
+
+Jul 23
+: TBD

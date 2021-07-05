@@ -13,3 +13,6 @@ Jul 14
 
 Jul 15
 : Derived datatype, group communicator, and virtual topology
+
+Jul 16
+: TBD
