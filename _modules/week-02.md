@@ -8,6 +8,9 @@ Jul 5
 
 Jul 6
 : Directives and Work-Sharing
+: **Resource**{: .label .label-blue }[OpenMP Tutorial by LLNL](https://hpc.llnl.gov/tuts/openMP/)
+: **Lecture**{: .label .label-purple }[OpenMP Contd.](../slides/HPC_Lec04_OpenMP.pdf)
+: **Lab**{: .label .label-green }[week2-lab1 (30pt)](../assignments/week2_lab1) [prime_count_omp.cpp](../resources/prime_count_omp.cpp)
 
 Jul 7
 : Data Scope Attributes
