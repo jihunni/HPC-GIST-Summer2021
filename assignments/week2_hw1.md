@@ -56,3 +56,8 @@ ai@ubuntu-20-04:~/Assignments/week2$ ./pi_cal_par
 Q3. Change the “reduction” clause to use the "atomic" directive. Then, test it with P=1, 2, 4, 6, 8. Report the results as previously. Provide your comments on why atomic is a bad idea for this case.
 
 Q4. Make a speed-up plot (using R or MATLAB) to represent three cases: ideal, using reduction, and using atomic cases. Please use R or MATLAB to make a plot.
+
+### Submit
+- Submit a zip file including source codes and document (PDF) by email to taehyuk.ahn@gist.ac.kr
+- Filename should be "HPC_week2_hw1_YourLastname_YourFirstName.gz"
+- Email title should be "HPC week2 hw1 submission"
