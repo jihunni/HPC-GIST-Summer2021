@@ -13,7 +13,9 @@ Jul 6
 : **Lab**{: .label .label-green }[week2-lab1 (30pt)](../assignments/week2_lab1) [prime_count_omp.cpp](../resources/prime_count_omp.cpp)
 
 Jul 7
-: Data Scope Attributes
+: Data Scope Attributes & Synchronization Constructs
+: **Resource**{: .label .label-blue }[SC21 Workshop on ML in High-Performance Environments](https://ornl.github.io/MLHPC/index.html)
+: **Lecture**{: .label .label-purple }[OpenMP Contd.](../slides/HPC_Lec05_OpenMP.pdf)
 
 Jul 8
 : Synchronization Constructs
