@@ -7,7 +7,7 @@ nav_exclude: true
 week2 hw1
 
 ## Score
-100
+70
 
 ## Due
 Wed, Jul-14-2021, 11:59 PM
