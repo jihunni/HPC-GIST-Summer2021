@@ -53,7 +53,7 @@ ai@ubuntu-20-04:~/Assignments/week2$ ./pi_cal_par
 - To measure OpenMP wall-clock time, use omp_get_wtime().
 - The calculated PI should be very similar to PI value (3.14159...)
 
-Q3. Change the “reduction” clause to use the "atomic" directive. Then, test it with P=1, 2, 4, 6, 8. Report the results as previously. Provide your comments on why atomic is a bad idea for this case.
+Q3. Change the "reduction" clause to use the "atomic" directive. Then, test it with P=2, 4, 8, 16. Report the results as previously. Provide your comments on why atomic is a bad idea for this case.
 
 Q4. Make a speed-up plot (using R or MATLAB) to represent three cases: ideal, using reduction, and using atomic cases. Please use R or MATLAB to make a plot.
 
