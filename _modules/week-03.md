@@ -9,6 +9,7 @@ Jul 12
 
 Jul 13
 : Point to Point Communication Routines
+: **Lecture**{: .label .label-purple }[HPC_Lec07_MPI_P2P.pdf](../slides/HPC_Lec07_MPI_P2P.pdf)
 
 Jul 14
 : Collective Communication Routines
