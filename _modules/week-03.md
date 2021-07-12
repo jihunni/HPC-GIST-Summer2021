@@ -1,18 +1,21 @@
 ---
-title: Week 3 - MPI
+title: Week 3 - Cluster and MPI
 ---
 
 Jul 12
-: Intro to MPI
+: Intro to Cluster and MPI
+: **Resource**{: .label .label-blue }[LLNL MPI Tutorial](https://hpc-tutorials.llnl.gov/mpi/)
+: **Lecture**{: .label .label-purple }[HPC_Lec06_Cluster_IntroMPI.pdf](../slides/HPC_Lec06_Cluster_IntroMPI.pdf)
 
 Jul 13
-: Point-to-point communication
+: Point to Point Communication Routines
 
 Jul 14
-: Collective communication
+: Collective Communication Routines
 
 Jul 15
-: Derived datatype, group communicator, and virtual topology
+: Derived Data Types, Group and Communicator Management Routines
 
 Jul 16
-: TBD
+: Virtual Topologies
+
