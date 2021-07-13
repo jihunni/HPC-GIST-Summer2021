@@ -10,9 +10,11 @@ Jul 12
 Jul 13
 : Point to Point Communication Routines
 : **Lecture**{: .label .label-purple }[HPC_Lec07_MPI_P2P.pdf](../slides/HPC_Lec07_MPI_P2P.pdf)
+: **Lab**{: .label .label-green }[week3-lab1 (30pt)](../assignments/week3_lab1)
 
 Jul 14
-: Collective Communication Routines
+: P2P and Collective Communication Routines
+: **Lecture**{: .label .label-purple }[HPC_Lec08_MPI_P2P_Collective.pdf](../slides/HPC_Lec08_MPI_P2P_Collective.pdf)
 
 Jul 15
 : Derived Data Types, Group and Communicator Management Routines
