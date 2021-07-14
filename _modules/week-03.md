@@ -17,8 +17,11 @@ Jul 14
 : **Lecture**{: .label .label-purple }[HPC_Lec08_MPI_P2P_Collective.pdf](../slides/HPC_Lec08_MPI_P2P_Collective.pdf)
 
 Jul 15
-: Derived Data Types, Group and Communicator Management Routines
+: Collective Communication Routines
+: **Lecture**{: .label .label-purple }[HPC_Lec09_MPI_P2P_Collective.pdf](../slides/HPC_Lec08_MPI_P2P_Collective.pdf)
 
 Jul 16
-: Virtual Topologies
+: Derived Data Types, Group and Communicator Management Routines, Virtual Topologies
 
+Codes
+: Souce Codes: [Link](../codes/week3/)
