@@ -22,3 +22,6 @@ Jul 8
 : **Resource**{: .label .label-blue }[LaTex](https://www.latex-project.org/), [Overleaf](https://www.overleaf.com/), [Overleaf Tutorial](https://www.overleaf.com/learn/latex/Tutorials), How to Prepare a Manuscript - [Part1](https://www.elsevier.com/connect/six-things-to-do-before-writing-your-manuscript), [Part2](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously), [Part3](https://www.elsevier.com/connect/writing-a-science-paper-some-dos-and-donts), [Part4](https://www.elsevier.com/connect/authors-update/how-to-make-your-article-easy-to-review-part-4)
 : **Lecture**{: .label .label-purple }[OpenMP Contd.](../slides/HPC_Lec05_OpenMP.pdf)
 : **Assignment**{: .label .label-green }[week2-hw1 (70pt)](../assignments/week2_hw1)
+
+Codes
+: Week 2 Lab source codes are available [here](https://github.com/BioHPC/HPC-GIST-Summer2021/tree/main/codes/week2)
