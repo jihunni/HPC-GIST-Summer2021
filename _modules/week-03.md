@@ -24,4 +24,4 @@ Jul 16
 : Derived Data Types, Group and Communicator Management Routines, Virtual Topologies
 
 Codes
-: Souce Codes: [Link](../codes/week3/)
+: Lab source codes are available [here](https://github.com/BioHPC/HPC-GIST-Summer2021/tree/main/codes)
