@@ -18,7 +18,7 @@ Jul 14
 
 Jul 15
 : Collective Communication Routines
-: **Lecture**{: .label .label-purple }[HPC_Lec09_MPI_P2P_Collective.pdf](../slides/HPC_Lec08_MPI_P2P_Collective.pdf)
+: **Lecture**{: .label .label-purple }[HPC_Lec09_MPI_Collective.pdf](../slides/HPC_Lec09_MPI_Collective.pdf)
 
 Jul 16
 : Derived Data Types, Group and Communicator Management Routines, Virtual Topologies
