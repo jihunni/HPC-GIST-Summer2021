@@ -7,11 +7,10 @@ nav_exclude: true
 week3 hw1
 
 ## Score
-70
+100
 
 ## Due
-Tue, Jul-20-2021, 9:30 AM
-
+Wed, Jul-21-2021, 11:59 PM 
 
 ## Problem 1
 Calculate Pi using the Monte-carlo method and MPI. Read the slide of Week 3 second lecture (HPC_Lec07_MPI_P2P.pdf). Run the program with n=10,000,000 and n= 100,000,000 cases using P=1, 2, 4, 8, 16. Check the PI calculation precision having ~= 3.141. Plot x-axis = P (log-scale preferred) and y-axis = wall-clock time. Finally, analyze the wall-clock time and speed-up with your words for two cases.
@@ -71,16 +70,7 @@ int main(int argc, char **argv)
     MPI_Finalize();
 }
 ```
-
-You need to run programs as below:
-```
-mpirun -np 1 pi_mc_mpi 100000000
-mpirun -np 2 pi_mc_mpi 100000000
-mpirun -np 4 pi_mc_mpi 100000000
-mpirun -np 8 pi_mc_mpi 100000000
-mpirun -np 16 pi_mc_mpi 100000000
-```
-If the n size is small to achieve enough speedup, you can increase n as you want.
+If the n size is small to achieve an enough speedup, you can increase n as you want.
 
 
 ## Problem 2
@@ -151,8 +141,7 @@ int main(int argc, char **argv)
 ```
 
 ## Problem 3
-Complete the Matrix-Vector multiplication using column-wise approach with same environment of Problem 2.
-
+Complete the Matrix-Vector multiplication using column-wise approach with same environment and assumption of Problem 2.
 
 
 ## Submit

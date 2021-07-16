@@ -23,6 +23,7 @@ Jul 15
 Jul 16
 : Derived Data Types, Group and Communicator Management Routines, Virtual Topologies
 : **Lecture**{: .label .label-purple }[HPC_Lec10_MPI_More.pdf](../slides/HPC_Lec10_MPI_More.pdf)
+: **Assignment**{: .label .label-green }[week3-hw1 (100pt)](../assignments/week3_hw1)
 
 Codes
 : Week 3 Lab source codes are available [here](https://github.com/BioHPC/HPC-GIST-Summer2021/tree/main/codes/week3)
