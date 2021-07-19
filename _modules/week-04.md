@@ -8,7 +8,8 @@ Jul 19
 : **Assignment**{: .label .label-green }[week4-lab1 (30)](../assignments/week4_lab1)
 
 Jul 20
-: Intro to GPGPU/CUDA
+: Intro to GPU and CUDA
+: **Lecture**{: .label .label-purple }[HPC_Lec12_GPU_CUDA_Intro.pdf](../slides/HPC_Lec12_GPU_CUDA_Intro.pdf)
 
 Jul 21
 : CUDA thread and execution model
