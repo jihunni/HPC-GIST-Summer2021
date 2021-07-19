@@ -1,18 +1,21 @@
 ---
-title: Week 4 - CUDA
+title: Week 4 - Pyhon in HPC and CUDA
 ---
-
-Jul 19
-: Intro to GPGPU/CUDA
+Jul 19 
+: Python in HPC
+: **Resource**{: .label .label-blue }
+: **Lecture**{: .label .label-purple }[HPC_Lec11_PythonHPC.pdf](../slides/HPC_Lec11_PythonHPC.pdf)
+: **Assignment**{: .label .label-green }[week4-lab1 (30)](../assignments/week3_lab1)
 
 Jul 20
-: CUDA thread and execution model
+: Intro to GPGPU/CUDA
 
 Jul 21
-: Memory hierachy and model
+: CUDA thread and execution model
 
 Jul 22
-: Synchronization, stream, and more
+: Memory hierachy and model
 
 Jul 23
-: TBD
+: Synchronization, stream, and more
+
