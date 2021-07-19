@@ -19,3 +19,5 @@ Jul 22
 Jul 23
 : Synchronization, stream, and more
 
+Codes
+: Week 4 Lab source codes are available [here](https://github.com/BioHPC/HPC-GIST-Summer2021/tree/main/codes/week4)
