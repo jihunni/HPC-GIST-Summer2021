@@ -21,5 +21,5 @@ date: 2021-07-16
   - Use Overleaf online LaTex and share ([How to share a project](https://www.overleaf.com/learn/how-to/Sharing_a_project)) it with me (ted.ahn@slu.edu).
 
 - Due and submit
-  - By July 30th (Friday) 11:59 pm
+  - By August 6th (Friday) 11:59 pm
   - Just share it with me and email me (gist account)
