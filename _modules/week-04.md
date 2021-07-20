@@ -12,9 +12,12 @@ Jul 20
 : **Lecture**{: .label .label-purple }[HPC_Lec12_GPU_CUDA_Intro.pdf](../slides/HPC_Lec12_GPU_CUDA_Intro.pdf)
 
 Jul 21
-: CUDA thread and execution model
+: Check week4-lab1, Discussion (Recursive funcion using OpenMP, Python virtual env), MPI Cannon's algorithm, Intro to GPU and CUDA
+: **Lecture**{: .label .label-purple }[HPC_SuppLec_MPI_MatrixMul.pdf](../slides/HPC_SuppLec_MPI_MatrixMul.pdf)
+: **Lecture**{: .label .label-purple }[HPC_Lec12_GPU_CUDA_Intro.pdf](../slides/HPC_Lec12_GPU_CUDA_Intro.pdf)
 
 Jul 22
+: CUDA thread and execution model
 : Memory hierachy and model
 
 Jul 23
