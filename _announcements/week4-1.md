@@ -7,7 +7,7 @@ date: 2021-07-16
 * Now, it is time for you to prepare Final Report. Please check the syllabus. 
 
 - **Final Report** (20%)
-  - You will be asked to write and submit a final report of 2~3 pages.
+  - You will be asked to write and submit a final report of 2~3 pages (but I prefer to read a long-report like 5-6 pages).
   - If you have been working on a specific research project,
     - provide research background,
     - survey how HPC is used in your research area,
