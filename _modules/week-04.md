@@ -18,7 +18,7 @@ Jul 21
 
 Jul 22
 : CUDA thread and execution model
-: Memory hierachy and model
+: **Lecture**{: .label .label-purple }[HPC_Lec13_GPU_CUDA.pdf](../slides/HPC_Lec13_GPU_CUDA.pdf)
 
 Jul 23
 : Synchronization, stream, and more
