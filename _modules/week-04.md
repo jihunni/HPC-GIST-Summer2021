@@ -21,7 +21,8 @@ Jul 22
 : **Lecture**{: .label .label-purple }[HPC_Lec13_GPU_CUDA.pdf](../slides/HPC_Lec13_GPU_CUDA.pdf)
 
 Jul 23
-: Synchronization, stream, and more
+: CUDA memory
+: **Lecture**{: .label .label-purple }[HPC_Lec14_GPU_CUDA.pdf](../slides/HPC_Lec14_GPU_CUDA.pdf)
 
 Codes
 : Week 4 Lab source codes are available [here](https://github.com/BioHPC/HPC-GIST-Summer2021/tree/main/codes/week4)
