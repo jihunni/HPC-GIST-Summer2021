@@ -24,6 +24,7 @@ Jul 23
 : CUDA thread execution and memory
 : **Resource**{: .label .label-blue }[CUDA thread indexing cheatsheet](https://cs.calvin.edu/courses/cs/374/CUDA/CUDA-Thread-Indexing-Cheatsheet.pdf)
 : **Lecture**{: .label .label-purple }[HPC_Lec14_GPU_CUDA.pdf](../slides/HPC_Lec14_GPU_CUDA.pdf)
+: **Assignment**{: .label .label-green }[week4-hw1 (50)](../assignments/week4_hw1)
 
 Codes
 : Week 4 Lab source codes are available [here](https://github.com/BioHPC/HPC-GIST-Summer2021/tree/main/codes/week4)
