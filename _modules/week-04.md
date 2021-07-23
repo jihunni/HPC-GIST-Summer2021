@@ -21,7 +21,8 @@ Jul 22
 : **Lecture**{: .label .label-purple }[HPC_Lec13_GPU_CUDA.pdf](../slides/HPC_Lec13_GPU_CUDA.pdf)
 
 Jul 23
-: CUDA memory
+: CUDA thread execution and memory
+: **Resource**{: .label .label-blue }[CUDA thread indexing cheatsheet](https://cs.calvin.edu/courses/cs/374/CUDA/CUDA-Thread-Indexing-Cheatsheet.pdf)
 : **Lecture**{: .label .label-purple }[HPC_Lec14_GPU_CUDA.pdf](../slides/HPC_Lec14_GPU_CUDA.pdf)
 
 Codes
